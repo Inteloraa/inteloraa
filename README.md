@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://inteloraa.com/favicon.ico" height="30"/> Inteloraa
+  <img src="https://inteloraa.com/wp-content/themes/inteloraa-website-wp-theme/static-data/logo/inteloraa-logo-black-pink.png" height="30"/> Inteloraa
 </h1>
 
 <p align="center">
